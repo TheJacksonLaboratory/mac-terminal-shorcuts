@@ -11,7 +11,7 @@
 | key       |          |
 | --------- | -------- |
 | <kbd>⌘</kbd><kbd>a</kbd>                         | Move to the start of the line |
-| <kbd>⌘</kbd><kbd>e/kbd>                             | Move to the end of the line |
+| <kbd>⌘</kbd><kbd>e</kbd>                             | Move to the end of the line |
 
 ## Deleting words and characters
 1. Delete words from the cursor to the end of the line: `CTRL` + `k`
