@@ -6,6 +6,13 @@
 5. Move forward a word (a word contains alphabets and digits, no symbols): `OPTION(META)` + `f` or  `OPTION` + `right`
 6. Move backward a word: `OPTION(META)` + `b` or `OPTION` + `left`
 
+## General OSX shortcuts
+
+| key       |          |
+| --------- | -------- |
+| <kbd>⌘</kbd><kbd>a</kbd>                         | Move to the start of the line |
+| <kbd>⌘</kbd><kbd>e/kbd>                             | Move to the end of the line |
+
 ## Deleting words and characters
 1. Delete words from the cursor to the end of the line: `CTRL` + `k`
 2. Delete words backwards (like backspace for characters): `CTRL` + `w` or `OPTION` + `backspace (delete key)`
